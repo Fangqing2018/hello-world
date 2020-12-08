@@ -13,4 +13,6 @@ I like apple.
 
 Also I like orange. (12/08/2020 10:12)
 
+Also banana. :-)
+
 edit throuth git cmd on 12/07/2020 14:09
